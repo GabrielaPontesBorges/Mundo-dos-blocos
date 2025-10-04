@@ -6,7 +6,7 @@ Trabalho realizado em sala no dia 02/10/2025
 Equipe: 
 
 1. Beatriz Quaresma: beatriz.quaresma@icomp.ufam.edu.br
-2. Gabriel Conceição; gabriel.conceicao@icomp.ufam.edu.br
+2. Gabriel Conceição: gabriel.conceicao@icomp.ufam.edu.br
 3. Thales: thales@icomp.ufam.edu.br
 4. Ruthelene Farias: ruthelene.farias@gmail.com
 5. Guilherme Moura: Guilherme.moura@icomp.ufam.edu.br
